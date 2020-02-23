@@ -15,7 +15,7 @@ The SODA TSC is the technical governing body of the CNCF Foundation. It admits a
 * **Masanori Itoh** (term: 2 years - start date: 1/1/2020 - 1/1/2022) [GB-appointed]
 * **Xin Zhong** (term: 2 years - start date: 1/1/2020 - 1/1/2022) [GB-appointed]
 * **Sanil Kumar** (term: 2 years - start date: 2/1/2020 - 2/1/2022) [Architecture WG Lead]
-* **Kiran Mova ** (term: 1 years - start date 3/1/2020 - 3/1/2021) [Community-elected]
+* **Kiran Mova** (term: 1 years - start date 3/1/2020 - 3/1/2021) [Community-elected]
 * **Prashant Mishra** (term: 1 years - start date 3/1/2020 - 3/1/2021) [Community-elected]
 * **Yusuf Yildiz** (term: 1 years - start date: 3/1/2020 - 3/1/2021) [Community-elected]
 
